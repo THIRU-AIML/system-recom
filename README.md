@@ -35,7 +35,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
+https://github.com/THIRU-AIML/system-recom.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -65,13 +65,3 @@ Now run,
 streamlit run app.py
 ```
 
-
-```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
-
-```
-
-
-# Movie-Recomondation
