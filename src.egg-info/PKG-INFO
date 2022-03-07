@@ -2,9 +2,9 @@ Metadata-Version: 2.1
 Name: src
 Version: 0.0.1
 Summary: A small package for Movie Recommender System
-Home-page: https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning
-Author: entbappy
-Author-email: entbappy73@gmail.com
+Home-page: https://github.com/tiru/Movie-Recommender-System-Using-Machine-Learning
+Author: tiru
+Author-email: tiruwipro3@gmail.com
 License: MIT
 Description: # Project: Movie Recommender System Using Machine Learning!
         
@@ -43,7 +43,7 @@ Description: # Project: Movie Recommender System Using Machine Learning!
         Clone the repository
         
         ```bash
-        https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
+        https://github.com/tiru-aiml/Movie-Recommender-System-Using-Machine-Learning.git
         ```
         ### STEP 01- Create a conda environment after opening the repository
         
@@ -75,9 +75,9 @@ Description: # Project: Movie Recommender System Using Machine Learning!
         
         
         ```bash
-        Author: Bappy Ahmed
-        Data Scientist
-        Email: entbappy73@gmail.com
+        Author: tiru
+        Architect
+        Email: tiruwipro3@gmail.com
         
         ```
         
